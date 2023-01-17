@@ -1,2 +1,2 @@
-# Body_Mass_Index
+# Body Mass Index
 Created with python in Turkish
